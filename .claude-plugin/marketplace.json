@@ -1,6 +1,11 @@
 {
   "name": "study-with-me",
-  "owner": { "name": "varu3" },
+  "owner": {
+    "name": "varu3"
+  },
+  "metadata": {
+    "description": "「一緒に勉強する」スキル study-with-me を配布する marketplace"
+  },
   "plugins": [
     {
       "name": "study-with-me",
