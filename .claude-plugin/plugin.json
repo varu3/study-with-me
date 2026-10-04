@@ -1,0 +1,8 @@
+{
+  "name": "study-with-me",
+  "description": "AI が解説し、ユーザーが自分の言葉で言い換え、AI がレビューする「一緒に勉強する」スキル",
+  "version": "0.1.0",
+  "author": { "name": "varu3" },
+  "repository": "https://github.com/varu3/study-with-me",
+  "license": "MIT"
+}

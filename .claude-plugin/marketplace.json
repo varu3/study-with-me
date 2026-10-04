@@ -1,0 +1,11 @@
+{
+  "name": "study-with-me",
+  "owner": { "name": "varu3" },
+  "plugins": [
+    {
+      "name": "study-with-me",
+      "source": "./",
+      "description": "AI が解説し、ユーザーが自分の言葉で言い換え、AI がレビューする「一緒に勉強する」スキル"
+    }
+  ]
+}
